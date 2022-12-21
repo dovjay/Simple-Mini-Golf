@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: cbf11701e768d9d4e975eae0aa053f13
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pickUpSwoosh: {fileID: 8300000, guid: 6318a956258d83a48a7728a8d61dac38, type: 3}
+  - hitSwoosh: {fileID: 8300000, guid: 29e3482404263bb47b9ebc6b30ab3b07, type: 3}
+  - mainMusic: {fileID: 8300000, guid: 8aee10037a5e3b441bc1cbab51e11a95, type: 3}
+  - UIClick: {fileID: 8300000, guid: 6d414e969bd74774ca27e6559b146239, type: 3}
+  - UISwitch: {fileID: 8300000, guid: aac8611b12afef64890e3a407c8448d7, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
